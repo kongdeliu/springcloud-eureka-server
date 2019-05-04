@@ -14,7 +14,7 @@ public class AdminServerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AdminServerApplication.class, args);
-        System.out.println("【【【【【【 SpringBoot Admin Server master v0.8 again 11111】】】】】】已启动.");
+        System.out.println("【【【【【【 SpringBoot Admin Server master v0.8 again 111fff11】】】】】】已启动.");
 
     }
 }
